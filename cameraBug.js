@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Camera API in conjunction with a custom UI component. The issue manifests as an inability to access the camera's preview stream or capture images/videos reliably. This happens intermittently and is not consistently reproducible across all devices or Expo versions.
